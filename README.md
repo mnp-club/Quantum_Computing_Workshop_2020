@@ -1,4 +1,4 @@
-# Quantum Computing Bootcamp 2020
+# Quantum Computing Workshop 2020
 
 Welcome to our Quantum Computing workshop. So to start off you need an IBM id so that you can use the IBM Quantum Experience.
 
