@@ -21,12 +21,16 @@ Once you are done with all this you can start with the notebooks :)
 
 ## Material of the Workshop
 
-Will be added soon, stay tuned.
+Notebooks will be added soon, stay tuned.
 
 If you are facing troubles you can ask your doubts on the [telegram group](https://t.me/joinchat/R8Z5FhfzigvZWYIxTrz6Zw).<br>
 For additional references you will find the [Qiskit Textbook](https://qiskit.org/textbook/preface.html) to be quite handy and also [this youtube playlist](https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4) does a pretty good job at explaining some basic concepts for quantum computing.
 
 All our sessions will be recorded so in case you are unable to attend them, do not worry since the recordings will be provided to you and we are always available for clearing your doubts via the telegram group.
+
+There will be two talks from guest lecturers,<br>
+Sandesh Kalantre, Graduate Student, University of Maryland on *Quantum Computing: The Present and The Future* at 7 PM, 26th July<br>
+Apoorva D. Patel, Professor at the Centre for High Energy Physics, Indian Institute of Science, Bangalore at 7 PM, 2nd August
 
 We hope you have fun and learn something new :)
 
