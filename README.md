@@ -10,7 +10,7 @@ So to start off you need an IBM id so that you can use the IBM Quantum Experienc
 
 You can find the IBM Quantum Experience [here](https://quantum-computing.ibm.com/).
 
-If you are familiar with github or have github desktop we reccomend cloning the repo to your computer or if you arent familiar with github then you can simply download as zip by clicking at the green **Code** button above and select **Download as ZIP**. You will have to of course download it again as we update more notebooks in here.
+If you are familiar with github or have github desktop we reccomend cloning the repo to your computer or if you arent familiar with github then you can simply download as zip by clicking at the green **Code** button above and select **Download ZIP**. You will have to of course download it again as we update more notebooks in here.
 To download the notebooks individuallu you have to select **Raw** button and then save as on that page and you will have to choose the save as in *all files* and it would automatically come as Notebook_name.ipynb.txt so you have to save it as just Notebook_name.ipynb by removing the .txt from the extension. In case your computer doesnt allow you to actually change extensions, you can open it in notepad or any text editor and save as in *all files* and keep the .ipynb extension and you will be done.<br>
 Alternatively you may also choose to open [google colab](https://colab.research.google.com/) and here select the **Github** tab and enter the link of this repo and it will list all the notebooks in this repo and you can then proceed to download from there however we will strongly reccomend you to not use google colab as you may face errors. 
 
