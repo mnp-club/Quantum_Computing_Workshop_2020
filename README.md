@@ -30,7 +30,7 @@ Once you are done with all this you can start with the notebooks :)
 [Day 2.2 Quantum TELIportation](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%202.2%20Quantum%20TELIportation.ipynb) (*sic*)<br>
 [Day 3 Universality](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%203%20Universality.ipynb)<br>
 
-More notebooks will be added soon so stay tuned.
+The notebooks of the following days will be added soon so stay tuned.
 
 **Note:** the markdown texts may look a little messed up on the github preview but on downloading it will be completely fine.
 
