@@ -17,7 +17,7 @@ Alternatively you may also choose to open [google colab](https://colab.research.
 Once you have set up your account you can use the notebooks provided to you by going on the side tab on [this](https://quantum-computing.ibm.com/) page and selecting **Qiskit Notebooks** under the Tools section and selecting **Import** and simply uploading the notebooks that you have downloaded from here.
 If you wish to run these notebooks locally you will require **Anaconda** and **Jupyter** which comes by default along with **Anaconda**.
 
-You will also require the packages **numpy**, **scipy**, **matplotlib** and **os** but these come included with **Jupyter** anyway.
+You will also require the packages **numpy**, **scipy**, **matplotlib** and **os** but these come included with **Jupyter** anyway.<br>
 To install qiskit follow [this guide](https://qiskit.org/documentation/install.html). Note that you will also need to store your IBM credentials locally as a .json file to run these notebooks locally.
 
 Once you are done with all this you can start with the notebooks :)
