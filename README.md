@@ -29,6 +29,8 @@ Once you are done with all this you can start with the notebooks :)
 [Day 2.1 Quantum Circuits Continued](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%202.1%20Quantum%20Circuits%20Continued.ipynb)<br>
 [Day 2.2 Quantum TELIportation](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%202.2%20Quantum%20TELIportation.ipynb) (*sic*)<br>
 [Day 3 Universality](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%203%20Universality.ipynb)<br>
+[Day 4 Deutsch Josza algorithm](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%204%20Deutsch%20Josza%20algorithm.ipynb)<br>
+[Day 5 BB84 Protocol](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%205%20BB84%20Protocol.ipynb)<br>
 
 The notebooks of the following days will be added soon so stay tuned.
 
