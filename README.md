@@ -31,6 +31,7 @@ Once you are done with all this you can start with the notebooks :)
 [Day 3 Universality](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%203%20Universality.ipynb)<br>
 [Day 4 Deutsch Josza algorithm](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%204%20Deutsch%20Josza%20algorithm.ipynb)<br>
 [Day 5 BB84 Protocol](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%205%20BB84%20Protocol.ipynb)<br>
+[Day 6 Grover's algorithm](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%206%20Grover's%20algorithm.ipynb)<br>
 
 The notebooks of the following days will be added soon so stay tuned.
 
