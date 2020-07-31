@@ -33,7 +33,7 @@ Once you are done with all this you can start with the notebooks :)
 [Day 5 BB84 Protocol](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%205%20BB84%20Protocol.ipynb)<br>
 [Day 6 Grover's algorithm](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%206%20Grover's%20algorithm.ipynb)<br>
 [Day 7 Quantum Fourier transform and its applications Part 1](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%207%20Quantum%20Fourier%20transform%20and%20its%20applications_%20Part%201.ipynb)<br>
-[Day 7 Quantum Fourier transform and its applications Part 1](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%207%20Quantum%20Fourier%20transform%20and%20its%20applications_%20Part%202.ipynb)<br>
+[Day 7 Quantum Fourier transform and its applications Part 2](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%207%20Quantum%20Fourier%20transform%20and%20its%20applications_%20Part%202.ipynb)<br>
 
 The notebooks of the following days will be added soon so stay tuned.
 
