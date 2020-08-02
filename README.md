@@ -35,8 +35,7 @@ Once you are done with all this you can start with the notebooks :)
 [Day 7 Quantum Fourier transform and its applications Part 1](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%207%20Quantum%20Fourier%20transform%20and%20its%20applications_%20Part%201.ipynb)<br>
 [Day 7 Quantum Fourier transform and its applications Part 2](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Day%207%20Quantum%20Fourier%20transform%20and%20its%20applications_%20Part%202.ipynb)<br>
 
-These are the final questions of this workshop which are at a slightly more challenging level.
-
+These are the final questions of this workshop which are at a slightly more challenging level.<br>
 [Final Question 1 Discrete Logarithm](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Final%20Question%201%20Discrete%20Logarithm.ipynb)<br>
 [Final Question 2 Unitary Circuit Building](https://github.com/mnp-club/Quantum_Computing_Workshop_2020/blob/master/Notebooks/Final%20Question%202%20Unitary%20Circuit%20Building.ipynb)<br>
 
